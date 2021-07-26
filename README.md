@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ChigorinDenis/responsive-interior-consultant}">
+    <a href="https://github.com/ChigorinDenis/responsive-interior-consultant">
       Solution
     </a>
     <span> | </span>
